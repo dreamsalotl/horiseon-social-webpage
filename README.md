@@ -4,6 +4,9 @@ Horiseon is a website dedicated to helping you take your business' social media 
 # Installation
 N/A
 
+# Screenshots
+![Alt text](C:\bootcamp\utsa-gitlab-repo\01-HTML-Git-CSS\02-Challenge\Assets)
+
 # Usage
 Click the links at the top to learn more about the benefits of increasing the quality of your social media presence.
 
@@ -11,4 +14,4 @@ Click the links at the top to learn more about the benefits of increasing the qu
 N/A
 
 # License
-Please refer to LICENSE in the repo.
+N/A
